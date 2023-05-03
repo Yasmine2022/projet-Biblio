@@ -1,0 +1,39 @@
+.page-header-book{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url(./img/about.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header-report{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url(./img/pfe-1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header-contact{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url(./img/contact.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.course-bg{
+        flex-shrink: 0;
+        width: 100%;
+        max-width: 100%;
+        padding-right: calc(var(--bs-gutter-x) / 2);
+        padding-left: calc(var(--bs-gutter-x) / 2);
+        margin-top: var(--bs-gutter-y);
+        animation-name: fadeInUp;
+}
+.bgfff{
+    background-image: url("/img/fond.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.collg4 {
+    flex: 0 0 auto;
+    width: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+}

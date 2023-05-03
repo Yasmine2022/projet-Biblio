@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!ELEMENT biblio (livre*)>
+        <!ELEMENT livre (titre, auteurs,categorie,Info_Emput?,image,description)>
+        <!ELEMENT titre (#PCDATA)>
+        <!ELEMENT auteurs (auteur+)>
+        <!ELEMENT categorie (#PCDATA)>
+        <!ELEMENT Info_Emput (edition?,date_Emprunt?)>
+        <!ELEMENT auteur (nom,prenom)>
+        <!ELEMENT nom (#PCDATA)>
+        <!ELEMENT prenom (#PCDATA)>
+        <!ELEMENT edition (#PCDATA)>
+        <!ELEMENT description (#PCDATA)>
+        <!ELEMENT date_Emprunt (#PCDATA)>
+        <!ELEMENT image EMPTY>
+        <!ATTLIST image src CDATA #REQUIRED>
+        <!ATTLIST livre id CDATA #REQUIRED>

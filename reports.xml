@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reports SYSTEM "reports.dtd">
+<reports>
+    <report id="item_64486da910e17">
+        <image src="img/rapport1.png" />
+        <stage>ABC Inc</stage>
+        <specialite>Développement des technologie de l'information</specialite>
+        <titre>Conception et développement d'un système de gestion des tâches</titre>
+        <etudiant>Ali Ben Ahmed</etudiant>
+        <date>2023-01-02</date>
+        <jury>
+            <presedent>M. Mohamed Ali</presedent>
+            <examinateur>Mme. Salma Ammar</examinateur>
+            <encadreurs>
+                <encadreur>M. Ahmed Ben Slimane</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486e110f6d7">
+        <image src="img/rapport3.png" />
+        <stage>XYZ Inc</stage>
+        <specialite>Réseau </specialite>
+        <titre>Optimisation des processus de production à travers l'analyse de données</titre>
+        <etudiant>Aicha Hammami</etudiant>
+        <date>2023-04-05</date>
+        <jury>
+            <presedent>Mme. Fatma Ben Ahmed</presedent>
+            <examinateur>M. Ahmed Ben Salah</examinateur>
+            <encadreurs>
+                <encadreur>Amer ben omer</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486e8c821d6">
+        <image src="img/rapport2.png" />
+        <stage>E-commerce Co</stage>
+        <specialite>Télécommunication </specialite>
+        <titre>Conception et développement d'un site web de commerce électronique</titre>
+        <etudiant>Omar Belhaj</etudiant>
+        <date>2023-04-30</date>
+        <jury>
+            <presedent>M. Ahmed Ben Ahmed</presedent>
+            <examinateur>Mme. Houda Gharbi</examinateur>
+            <encadreurs>
+                <encadreur>M. Mohamed Ben Ali</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486e110f6d7">
+        <image src="img/rapport3.png" />
+        <stage>XYZ Inc</stage>
+        <specialite>Réseau </specialite>
+        <titre>Optimisation des processus de production à travers l'analyse de données</titre>
+        <etudiant>Aicha Hammami</etudiant>
+        <date>2023-04-05</date>
+        <jury>
+            <presedent>Mme. Fatma Ben Ahmed</presedent>
+            <examinateur>M. Ahmed Ben Salah</examinateur>
+            <encadreurs>
+                <encadreur>Amer ben omer</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486e8c821d6">
+        <image src="img/rapport2.png" />
+        <stage>E-commerce Co</stage>
+        <specialite>Télécommunication </specialite>
+        <titre>Conception et développement d'un site web de commerce électronique</titre>
+        <etudiant>Omar Belhaj</etudiant>
+        <date>2023-04-30</date>
+        <jury>
+            <presedent>M. Ahmed Ben Ahmed</presedent>
+            <examinateur>Mme. Houda Gharbi</examinateur>
+            <encadreurs>
+                <encadreur>M. Mohamed Ben Ali</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486da910e17">
+        <image src="img/rapport1.png" />
+        <stage>ABC Inc</stage>
+        <specialite>Développement des technologie de l'information</specialite>
+        <titre>Conception et développement d'un système de gestion des tâches</titre>
+        <etudiant>Ali Ben Ahmed</etudiant>
+        <date>2023-01-02</date>
+        <jury>
+            <presedent>M. Mohamed Ali</presedent>
+            <examinateur>Mme. Salma Ammar</examinateur>
+            <encadreurs>
+                <encadreur>M. Ahmed Ben Slimane</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486e8c821d6">
+        <image src="img/rapport2.png" />
+        <stage>E-commerce Co</stage>
+        <specialite>Télécommunication </specialite>
+        <titre>Conception et développement d'un site web de commerce électronique</titre>
+        <etudiant>Omar Belhaj</etudiant>
+        <date>2023-04-30</date>
+        <jury>
+            <presedent>M. Ahmed Ben Ahmed</presedent>
+            <examinateur>Mme. Houda Gharbi</examinateur>
+            <encadreurs>
+                <encadreur>M. Mohamed Ben Ali</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486da910e17">
+        <image src="img/rapport1.png" />
+        <stage>ABC Inc</stage>
+        <specialite>Développement des technologie de l'information</specialite>
+        <titre>Conception et développement d'un système de gestion des tâches</titre>
+        <etudiant>Ali Ben Ahmed</etudiant>
+        <date>2023-01-02</date>
+        <jury>
+            <presedent>M. Mohamed Ali</presedent>
+            <examinateur>Mme. Salma Ammar</examinateur>
+            <encadreurs>
+                <encadreur>M. Ahmed Ben Slimane</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+    <report id="item_64486e110f6d7">
+        <image src="img/rapport3.png" />
+        <stage>XYZ Inc</stage>
+        <specialite>Réseau </specialite>
+        <titre>Optimisation des processus de production à travers l'analyse de données</titre>
+        <etudiant>Aicha Hammami</etudiant>
+        <date>2023-04-05</date>
+        <jury>
+            <presedent>Mme. Fatma Ben Ahmed</presedent>
+            <examinateur>M. Ahmed Ben Salah</examinateur>
+            <encadreurs>
+                <encadreur>Amer ben omer</encadreur>
+            </encadreurs>
+        </jury>
+    </report>
+</reports>

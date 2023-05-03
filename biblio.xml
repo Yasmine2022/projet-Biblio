@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "biblio.dtd">
+<biblio>
+    <livre id="item_644869655448d">
+        <titre>Le Petit Prince</titre>
+        <auteurs>
+            <auteur>
+                <nom>Antoine </nom>
+                <prenom>de Saint-Exupéry</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman</categorie>
+        <Info_Emput>
+            <edition>2nd Edition</edition>
+            <date_Emprunt>2023-04-20</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book1.png" />
+        <description>Un aviateur tombe en panne dans le désert du Sahara et rencontre un petit
+            prince venu d'une autre planète. Le petit prince lui raconte ses aventures et ses
+            rencontres sur les différentes planètes qu'il a visitées</description>
+    </livre>
+    <livre id="item_644869c8e8e2a">
+        <titre>Harry Potter et la Chambre</titre>
+        <auteurs>
+            <auteur>
+                <nom>J.K. </nom>
+                <prenom>Rowling</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman jeunesse</categorie>
+        <Info_Emput>
+            <edition>3rd Edition</edition>
+            <date_Emprunt>2023-04-02</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book2.png" />
+        <description>De retour à l'école de sorcellerie de Poudlard, Harry Potter doit faire face à
+            de nouveaux défis, y compris une mystérieuse chambre des secrets qui renferme un
+            terrible secret.</description>
+    </livre>
+    <livre id="item_64486a23c4a1a">
+        <titre>Le Comte de Monte-Cristo</titre>
+        <auteurs>
+            <auteur>
+                <nom>Alexandre</nom>
+                <prenom>Dumas</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman</categorie>
+        <Info_Emput>
+            <edition>1st Edition</edition>
+            <date_Emprunt>2022-12-17</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book3.png" />
+        <description>Le jeune marin Edmond Dantès est emprisonné à tort pendant 14 ans. À sa
+            libération, il se met en quête de se venger de ceux qui l'ont trahi et ruiné sa vie.</description>
+    </livre>
+    <livre id="item_644869c8e8e2a">
+        <titre>Harry Potter et la Chambre</titre>
+        <auteurs>
+            <auteur>
+                <nom>J.K. </nom>
+                <prenom>Rowling</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman jeunesse</categorie>
+        <Info_Emput>
+            <edition>3rd Edition</edition>
+            <date_Emprunt>2023-04-02</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book2.png" />
+        <description>De retour à l'école de sorcellerie de Poudlard, Harry Potter doit faire face à
+            de nouveaux défis, y compris une mystérieuse chambre des secrets qui renferme un
+            terrible secret.</description>
+    </livre>
+    <livre id="item_64486a23c4a1a">
+        <titre>Le Comte de Monte-Cristo</titre>
+        <auteurs>
+            <auteur>
+                <nom>Alexandre</nom>
+                <prenom>Dumas</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman</categorie>
+        <Info_Emput>
+            <edition>1st Edition</edition>
+            <date_Emprunt>2022-12-17</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book3.png" />
+        <description>Le jeune marin Edmond Dantès est emprisonné à tort pendant 14 ans. À sa
+            libération, il se met en quête de se venger de ceux qui l'ont trahi et ruiné sa vie.</description>
+    </livre>
+    <livre id="item_644869655448d">
+        <titre>Le Petit Prince</titre>
+        <auteurs>
+            <auteur>
+                <nom>Antoine </nom>
+                <prenom>de Saint-Exupéry</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman</categorie>
+        <Info_Emput>
+            <edition>2nd Edition</edition>
+            <date_Emprunt>2023-04-20</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book1.png" />
+        <description>Un aviateur tombe en panne dans le désert du Sahara et rencontre un petit
+            prince venu d'une autre planète. Le petit prince lui raconte ses aventures et ses
+            rencontres sur les différentes planètes qu'il a visitées</description>
+    </livre>
+    <livre id="item_64486a23c4a1a">
+        <titre>Le Comte de Monte-Cristo</titre>
+        <auteurs>
+            <auteur>
+                <nom>Alexandre</nom>
+                <prenom>Dumas</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman</categorie>
+        <Info_Emput>
+            <edition>1st Edition</edition>
+            <date_Emprunt>2022-12-17</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book3.png" />
+        <description>Le jeune marin Edmond Dantès est emprisonné à tort pendant 14 ans. À sa
+            libération, il se met en quête de se venger de ceux qui l'ont trahi et ruiné sa vie.</description>
+    </livre>
+    <livre id="item_644869655448d">
+        <titre>Le Petit Prince</titre>
+        <auteurs>
+            <auteur>
+                <nom>Antoine </nom>
+                <prenom>de Saint-Exupéry</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman</categorie>
+        <Info_Emput>
+            <edition>2nd Edition</edition>
+            <date_Emprunt>2023-04-20</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book1.png" />
+        <description>Un aviateur tombe en panne dans le désert du Sahara et rencontre un petit
+            prince venu d'une autre planète. Le petit prince lui raconte ses aventures et ses
+            rencontres sur les différentes planètes qu'il a visitées</description>
+    </livre>
+    <livre id="item_644869c8e8e2a">
+        <titre>Harry Potter et la Chambre</titre>
+        <auteurs>
+            <auteur>
+                <nom>J.K. </nom>
+                <prenom>Rowling</prenom>
+            </auteur>
+        </auteurs>
+        <categorie>Roman jeunesse</categorie>
+        <Info_Emput>
+            <edition>3rd Edition</edition>
+            <date_Emprunt>2023-04-02</date_Emprunt>
+        </Info_Emput>
+        <image src="img/book2.png" />
+        <description>De retour à l'école de sorcellerie de Poudlard, Harry Potter doit faire face à
+            de nouveaux défis, y compris une mystérieuse chambre des secrets qui renferme un
+            terrible secret.</description>
+    </livre>
+</biblio>

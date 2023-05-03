@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!ELEMENT reports (report*)>
+        <!ELEMENT report (image,stage,specialite,titre,etudiant,date,jury)>
+        <!ELEMENT jury (presedent,examinateur,encadreurs)>
+        <!ELEMENT encadreurs (encadreur*)>
+        <!ELEMENT encadreur (#PCDATA)>
+        <!ELEMENT stage (#PCDATA)>
+        <!ELEMENT specialite (#PCDATA)>
+        <!ELEMENT titre (#PCDATA)>
+        <!ELEMENT etudiant (#PCDATA)>
+        <!ELEMENT date (#PCDATA)>
+        <!ELEMENT presedent (#PCDATA)>
+        <!ELEMENT examinateur (#PCDATA)>
+        <!ELEMENT image EMPTY>
+        <!ATTLIST image src CDATA #REQUIRED>
+        <!ATTLIST report id CDATA #REQUIRED>
